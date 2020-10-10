@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7577DE89-FE38-C988-EFDC-19A00E6E9E0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UI_Lab/Scripts/Player_Script/PlayerControl.cs">
+    <Files>
+      <File FileName="Assets/UI_Lab/Scripts/Player_Script/PlayerControl.cs" Line="35" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UI Lab - Sergio Torres" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UI_Lab" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Player_Script" expanded="True">
+                    <Node name="PlayerControl.cs" selected="True" />
+                  </Node>
+                  <Node name="UI_Script" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="UI_Script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UI Lab - Sergio Torres" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3d0f20d6-0978-4661-b696-76feeab08303" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
